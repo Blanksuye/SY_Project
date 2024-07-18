@@ -1,0 +1,14 @@
+.vs/
+.vsconfig
+.idea/
+Binaries/
+CITEMP/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+
+OG3.uproject
+Build/
+Windows/
+OG3.sln
